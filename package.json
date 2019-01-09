@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/es6-shim": "^0.31.34",
     "@types/jasmine": "~2.5.53",
-    "@types/jest": "^23.3.9",
+    "@types/jest": "^23.3.12",
     "es6-shim": "~0.35.3",
     "jasmine": "~2.5.2",
     "jasmine-core": "~2.3.4",
