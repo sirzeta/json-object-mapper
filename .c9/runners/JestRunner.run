@@ -3,10 +3,9 @@
 {
     "cmd": [
         "npx",
-        "-n=--inspect",
+        "${debug?-n=--inspect}",
         "jest",
         "--rootDir=$project_path",
-        "-i",
         "--coverage=false",
         "--runInBand",
         "$file"
